@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yvlg0mpeRgDTArIBOOH3AhQLoxeZH7b/C8hq5TwLtxMAsAXxLp6NncKNa1EQqaCW9eoZhJii4pJClyH3FzZb+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tanner\\ISCore\\WINTER 2023\\IS413 Enterprise App\\Missions\\Mission2\\CSharpFun\\CSharpFun\\CSharpFun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
